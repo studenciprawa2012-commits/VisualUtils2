@@ -1,0 +1,17 @@
+{
+  "key.visualutils.menu": "Open VisualUtils menu",
+  "key.category.visualutils.main": "VisualUtils",
+  "key.visualutils.toggle_tracers": "Toggle: Tracers",
+  "key.visualutils.toggle_esp": "Toggle: ESP",
+  "key.visualutils.toggle_nametags": "Toggle: Nametags+",
+  "key.visualutils.toggle_mobs": "Toggle: Show mobs",
+  "key.visualutils.toggle_fullbright": "Toggle: Fullbright",
+  "key.visualutils.toggle_zoom": "Toggle: Zoom",
+  "key.visualutils.toggle_info": "Toggle: Info",
+  "key.visualutils.toggle_stats": "Toggle: FPS and ping",
+  "key.visualutils.toggle_cps": "Toggle: CPS",
+  "key.visualutils.toggle_keystrokes": "Toggle: Keystrokes",
+  "key.visualutils.toggle_armor": "Toggle: Armor HUD",
+  "key.visualutils.toggle_potions": "Toggle: Effects HUD",
+  "key.visualutils.toggle_clock": "Toggle: Clock"
+}
